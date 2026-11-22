@@ -37,20 +37,13 @@ Mi CV, versionado y publicado desde mi repositorio en GitHub
 
 ## Habilidades Técnicas
 * **Sistemas Operativos:** Instalación, mantenimiento y administración de GNU/Linux (Ubuntu/Debian) y Windows Server
-* **Redes y Comunicaciones:** Cableado estructurado, direccionamiento IPv4/IPv6, subredes, routers y switches
-* **Virtualización y Herramientas:** VirtualBox, terminal Bash, control de versiones con Git y GitHub
-* **Web y Documentación:** HTML5 básico, CSS3 y maquetación estructurada en Markdown
+* **Redes y Comunicaciones:** Cableado estructurado, GNS3, wireshark, Packet Tracer
+* **Virtualización y Herramientas:** VirtualBox, terminal Bash, Python
+* **Web y Documentación:** HTML5 básico, CSS, maquetación estructurada en Markdown, Pandoc
 
 
 ---
 
-## Proyectos Destacados
-* **Presentación del CV en GitHub Pages:** Proyecto en Markdown publicado en la web utilizando Reveal.js y control de versiones Git.
-* **Soporte Informático en el Sector Público:** Mantenimiento de equipos y red en el Ayuntamiento de Paiporta y CEIP Ausiàs March.
-* **Gestión Logística y Trabajo en Equipo:** Experiencia de 6 meses en empresa de paquetería (GLS).
-
-
----
 
 ## Idiomas y Competencias
 * **Idiomas:**
@@ -61,10 +54,13 @@ Mi CV, versionado y publicado desde mi repositorio en GitHub
   * Trabajo en equipo y colaboración
   * Capacidad de adaptación y aprendizaje rápido
   * Responsabilidad y autonomía en la resolución de problemas
+  * Trabajo bajo presion
+  * Ganas de aprender
 
 ---
 
 ## Contacto
-* **GitHub:** [github.com/TU_USUARIO](https://github.com/NicolasASIR24)
-* **Web CV:** [TU_USUARIO.github.io/mi-cv](https://NicolasASIR24.github.io/mi-cv)
+* **GitHub:** [github.com/NicolasASIR2O](https://github.com/NicolasASIR24)
+* **Telefono:** +34 677 17 20 54
+* **Correo:** nicolascuencasanz@gmail.com
 * **Centro:** IES La Sénia
