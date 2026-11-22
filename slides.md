@@ -1,6 +1,5 @@
 # Nicolás Cuenca Sanz
 ### Técnico en Sistemas Microinformáticos y Redes (1º ASIR)
-Mi CV, versionado y publicado desde mi repositorio en GitHub
 
 
 ---
