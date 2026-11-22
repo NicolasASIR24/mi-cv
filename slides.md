@@ -21,7 +21,6 @@ Mi CV, versionado y publicado desde mi repositorio en GitHub
 | **SMR / SMX** (Sistemas Micro. y Redes) | IES La Sénia | 2024 - 2026 |
 | **Educación Secundaria (ESO)** | Maria Auxiliadora (Torrent) | 2020 - 2024 |
 
-Nota: Destacar la trayectoria continua desde la ESO hasta la especialización superior en ASIR.
 
 ---
 
