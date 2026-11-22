@@ -1,24 +1,73 @@
+
 <!DOCTYPE html>
 <html lang="es">
 <head>
-<meta charset="utf-8">
-<title>Mi CV - Tu Nombre</title>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@5/dist/reset.css">
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@5/dist/reveal.css">
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@5/dist/theme/black.css">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Mi CV - Nicolás Cuenca Sanz</title>
+
+  <!-- Reveal.js -->
+  <link rel="stylesheet"
+        href="https://cdn.jsdelivr.net/npm/reveal.js@5/dist/reset.css">
+
+  <link rel="stylesheet"
+        href="https://cdn.jsdelivr.net/npm/reveal.js@5/dist/reveal.css">
+
+  <link rel="stylesheet"
+        href="https://cdn.jsdelivr.net/npm/reveal.js@5/dist/theme/black.css">
+
+  <style>
+    .reveal {
+      font-size: 28px;
+    }
+
+    .reveal h1,
+    .reveal h2,
+    .reveal h3 {
+      text-transform: none;
+    }
+
+    .reveal section {
+      text-align: left;
+    }
+  </style>
 </head>
+
 <body>
-<div class="reveal">
-<div class="slides">
-<section data-markdown="slides.md"
-data-separator="^---$"
-data-separator-notes="^Nota: "></section>
-</div>
-</div>
-<script src="https://cdn.jsdelivr.net/npm/reveal.js@5/dist/reveal.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/reveal.js@5/dist/plugin/markdown/markdown.js"></script>
-<script>
-Reveal.initialize({ hash: true, transition: 'slide' });
-</script>
+
+  <div class="reveal">
+    <div class="slides">
+
+      <!-- Cargar las diapositivas desde slides.md -->
+      <section
+        data-markdown="slides.md"
+        data-separator="^---$"
+        data-separator-vertical="^--$"
+        data-separator-notes="^Note:"
+      >
+      </section>
+
+    </div>
+  </div>
+
+  <!-- Librería Reveal.js -->
+  <script src="https://cdn.jsdelivr.net/npm/reveal.js@5/dist/reveal.js"></script>
+
+  <!-- Plugin Markdown -->
+  <script src="https://cdn.jsdelivr.net/npm/reveal.js@5/plugin/markdown/markdown.js"></script>
+
+  <script>
+    Reveal.initialize({
+      hash: true,
+      controls: true,
+      progress: true,
+      slideNumber: true,
+      center: true,
+      transition: 'slide',
+      plugins: [RevealMarkdown]
+    });
+  </script>
+
 </body>
 </html>
