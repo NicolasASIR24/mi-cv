@@ -59,7 +59,7 @@
 ---
 
 ## Contacto
-* **GitHub:** [github.com/NicolasASIR2O](https://github.com/NicolasASIR24)
+* **GitHub:** [github.com/NicolasASIR24](https://github.com/NicolasASIR24)
 * **Telefono:** +34 677 17 20 54
 * **Correo:** nicolascuencasanz@gmail.com
 * **Centro:** IES La Sénia
